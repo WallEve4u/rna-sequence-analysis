@@ -1,8 +1,7 @@
 ---
 title: "RNA-seq Differential Expression Analysis"
 subtitle: "COVID-19 Infected vs Healthy Lung Tissue (GSE147507)"
-author: "Your Name — BSc Bioinformatics"
-date: "`r Sys.Date()`"
+author: "Waleed Tariq — BSc Bioinformatics"
 output:
   html_document:
     toc: true
