@@ -177,4 +177,4 @@ Blanco-Melo D et al. *Imbalanced Host Response to SARS-CoV-2 Drives Development 
 
 ---
 
-**Author:** [Your Name] | BSc Bioinformatics, [Your University], Peshawar, Pakistan
+**Author:** Waleed Tariq| BSc Bioinformatics, The University of Agriculture, Peshawar, Pakistan
